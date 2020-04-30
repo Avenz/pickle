@@ -1,3 +1,0 @@
-#define PUMP_ID		"859106"	// pump serial number (note that this is a string constant)
-#define PUMP_FREQUENCY	916500000	// pump frequency
-#define MMTUNE_START	916300000	// starting frequency for mmtune scans
